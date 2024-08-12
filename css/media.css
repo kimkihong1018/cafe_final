@@ -128,9 +128,6 @@
         left: 15px;
     }
 
-    .dream_factory {
-        height: 45vh;
-    }
 
 
     .factory_con .em {
@@ -241,7 +238,7 @@
     }
 
     .dream_factory {
-        height: 65vh;
+        height: 500px;
     }
 
     .bottom_con1 {
@@ -272,7 +269,7 @@
 
 @media screen and (max-width:600px) {
     .dream_factory {
-        height: 60vh;
+        height: 500px;
     }
 
 
